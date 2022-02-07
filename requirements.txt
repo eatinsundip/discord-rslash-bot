@@ -1,0 +1,6 @@
+discord
+praw
+random
+re
+subprocess
+requests
